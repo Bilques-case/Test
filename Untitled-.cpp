@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//2*2 matrice multiplication 
 int main() {
 
     int A[2][2] = {{1, 2}, {3, 4}};
